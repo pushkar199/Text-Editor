@@ -82,7 +82,7 @@ const MyEditor = () => {
   return (
     <div>
       <div className="head">
-        <h3>Demo Editor</h3>
+        <h3>Editor</h3>
         <div>
           <button className="save-btn" onClick={saveContent}>
             Save
